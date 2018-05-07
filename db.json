@@ -324,52 +324,6 @@
           "meetStatus": "completed"
         }
       ]
-    },
-    {
-      "meetDate": "Thursday, 20 Apr",
-      "meetTot": "5",
-      "Meetings": [
-        {
-          "meetDate": "Thursday, 20 Apr",
-          "meetID": "4563",
-          "clientName": "Unison Pharmaceuticals Pvt. Ltd",
-          "clientShortAdd": "Jodhpur, Ahmedabad",
-          "startTime": "08:00 AM",
-          "meetStatus": "completed"
-        },
-        {
-          "meetDate": "Thursday, 20 Apr",
-          "meetID": "4563",
-          "clientName": "Prasad Group Of Companies",
-          "clientShortAdd": "Vatva, Ahmedabad",
-          "startTime": "10:30 PM",
-          "meetStatus": "completed"
-        },
-        {
-          "meetDate": "Thursday, 20 Apr",
-          "meetID": "4563",
-          "clientName": "Gujarat Ambuja Exports Ltd",
-          "clientShortAdd": " Bodakdev, Ahmedabad",
-          "startTime": "01:00 PM",
-          "meetStatus": "completed"
-        },
-        {
-          "meetDate": "Thursday, 20 Apr",
-          "meetID": "4563",
-          "clientName": "Voltamp Transformers Limited",
-          "clientShortAdd": "Anandnagar Road, Ahmedabad",
-          "startTime": "03:50 PM",
-          "meetStatus": "completed"
-        },
-        {
-          "meetDate": "Thursday, 20 Apr",
-          "meetID": "4563",
-          "clientName": "Progressive Lifecare",
-          "clientShortAdd": "Navrangpura, Ahmedabad",
-          "startTime": "05:30 PM",
-          "meetStatus": "completed"
-        }
-      ]
     }
   ],
   "result": 1,
